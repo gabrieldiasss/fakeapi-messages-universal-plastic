@@ -3,37 +3,43 @@
         {
             "id": 1,
             "avatar_url": "/images/justin.PNG",
-            "name": "Justin Bieber"
+            "name": "Justin Bieber",
+            "email": "justin@gmail.com"
         },
     
         {
             "id": 2,
             "avatar_url": "/images/jade.PNG",
-            "name": "Jade Picon"
+            "name": "Jade Picon",
+            "email": "jade@gmail.com"
         },
     
         {
             "id": 3,
             "avatar_url": "/images/luisa.PNG",
-            "name": "Luisa Sonza"
+            "name": "Luisa Sonza",
+            "email": "luisa@gmail.com"
         },
     
         {
             "id": 4,
             "avatar_url": "/images/neymar.PNG",
-            "name": "Neymar ⚽"
+            "name": "Neymar ⚽",
+            "email": "neymar@gmail.com"
         },
     
         {
             "id": 5,
             "avatar_url": "/images/anitta.PNG",
-            "name": "Anitta 🎤"
+            "name": "Anitta 🎤",
+            "email": "anitta@gmail.com"
         },
     
         {
             "id": 6,
             "avatar_url": "/images/whind.PNG",
-            "name": "Whindersson Nunes"
+            "name": "Whindersson Nunes",
+            "email": "whindersson@gmail.com"
         }
     ]
 }
